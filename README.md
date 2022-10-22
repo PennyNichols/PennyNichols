@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pnichols789@gmail.com
 - ⚡ Fun fact: I'm a super science nerd - Chemistry, Physics, Biology, Neuroscience, and Neuropsychology, to be specific.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PennyNichols&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=PennyNichols&theme=onelight)

@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Full Stack Development Certification.
 - 🌱 I’m currently learning React projects.
 - 👯 I’m looking to collaborate on a fun project involving Chemistry data :) study app for a college-level chemistry lab, perhaps.

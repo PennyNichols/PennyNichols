@@ -8,4 +8,6 @@
 - 📫 How to reach me: pnichols789@gmail.com
 - ⚡ Fun fact: I'm a super science nerd - Chemistry, Physics, Biology, Neuroscience, and Neuropsychology, to be specific.
 
+## Many contributions from 2023, 2024, and early 2025 are linked to this [profile](https://github.com/Penny-Nichols).
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=PennyNichols&theme=onelight)
